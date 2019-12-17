@@ -9,6 +9,8 @@ if ($sentryDsn) {
 }
 
 
+count(null);
+
 $path = $_GET['path'];
 
 switch ($path) {
